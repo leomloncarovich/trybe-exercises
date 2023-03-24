@@ -1,0 +1,25 @@
+p, h1{
+text-align: center;
+}
+
+body{
+background-color: darkgray;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+li:hover{
+    background-color: blue;
+}
+
+li:active{
+    font-family: monospace;
+    font-size: 20px;
+}
+
+li{
+    list-style: none;
+}
