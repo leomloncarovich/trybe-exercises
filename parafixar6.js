@@ -1,4 +1,4 @@
-let statusAprovado = "default"
+let statusAprovado = "Dale"
 
 switch (statusAprovado){
   
@@ -15,7 +15,6 @@ switch (statusAprovado){
     break;
 
 
-  case "default":
+  default:
     console.log("Informação incorreta")
-    break;
 }
