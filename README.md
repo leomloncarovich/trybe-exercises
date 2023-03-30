@@ -5,4 +5,6 @@
 
 # Para Fixar:
 *parafixar1.js é referente ao exercício de variaveis*<br>
-*parafixar2.js é referente ao exercício de tipos primitivos, tipagem dinâmica e operações aritmeticas*
+*parafixar2.js é referente ao exercício de tipos primitivos, tipagem dinâmica e operações aritmeticas*<br>
+*parafixar3.js é referente ao exercício de condições if e else*<br>
+
