@@ -1,4 +1,4 @@
-import { nanoid } from "nanoid";
+import { nanoid } from 'nanoid';
 
 const btn = document.querySelector('button');
 const display = document.querySelector('h2');
